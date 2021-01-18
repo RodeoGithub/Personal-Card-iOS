@@ -8,7 +8,7 @@
 
 struct K {
     static let name = "Maidana Rodrigo"
-    static let email = "maidanarodrigo@gmail.com"
+    static let email = "maidanarodrigo.dev@gmail.com"
     static let profilePhotoName = "rodrigo_square"
     static let profession = "iOS Developer"
     static let phoneNumber = "+54 362 420-5074"
